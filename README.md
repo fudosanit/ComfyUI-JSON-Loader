@@ -1,4 +1,4 @@
-# ComfyUI JSON Prompt List Loader (Batch)
+# ComfyUI JSON Prompt List Loader
 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 向けのカスタムノードです。
 JSONファイルに記述されたプロンプトや設定を一括で読み込み、ComfyUIのリスト実行（Batch List）機能を使って連続生成を行うことができます。
