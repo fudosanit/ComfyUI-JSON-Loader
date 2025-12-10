@@ -21,4 +21,4 @@ JSONファイルに記述されたプロンプトや設定を一括で読み込�
 
 ```bash
 cd ComfyUI/custom_nodes/
-git clone [https://github.com/fudosanit/ComfyUI-JSON-Loader.git](https://github.com/fudosanit/ComfyUI-JSON-Loader.git)
+git clone https://github.com/fudosanit/ComfyUI-JSON-Loader.git
